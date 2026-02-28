@@ -1,0 +1,42 @@
+.sectionpro{
+    background-color: black;
+    color: azure;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sectionpro h2{
+     font-size: 35px;
+     padding: 20px;
+}
+.sectionpro p{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.table{
+    border: 1px solid greenyellow;
+    background-color: black;
+    max-width: 800px;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.table p{
+    padding: 10px;
+    color: gray;
+    font-size: 25px;
+}
+.table a{
+    color: greenyellow;
+    text-decoration: none;
+    font-size: 20px;
+}
+.table h3{
+    font-size: 25px;
+}
+.table h3:hover{
+    color: cyan;
+
+}

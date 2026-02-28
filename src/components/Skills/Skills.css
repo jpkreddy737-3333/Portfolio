@@ -1,0 +1,24 @@
+.skills-grid{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 20px;
+}
+.skill{
+    border: 1px solid greenyellow;
+    padding: 15px 20px;
+    color: grey;
+    transition: all 0.3s;
+}
+.skill:hover{
+    border-color: greenyellow;
+    color: cyan;
+}
+.section p{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.section h2{
+    font-size: 35px;
+    margin-bottom: 15px;
+}
