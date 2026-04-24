@@ -12,6 +12,7 @@ function Projects(){
                 <p>Integrated FakeStore REST API to fetch and display 20+ real-time products with category-wise filtering across electronics, jewellery, and clothing</p>
                 <p>Implemented React Context API for global authentication state management supporting Sign Up and Sign In workflows with session persistence</p>
                 <p>Deployed the application on Netlify for public access and availability</p>
+                <p>login-Detais mail: pavan@gmail.com  pass: 12345</p>
                 <a href="https://pavan-bro-mart.netlify.app" target="_blank" rel="noopener noreferrer"> Live Demo </a>
                  <a href="https://github.com/jpkreddy737-3333" target="_blank" rel="noopener noreferrer"> GitHub </a>
             </div>
