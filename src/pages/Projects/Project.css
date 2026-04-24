@@ -18,7 +18,7 @@
 .table{
     border: 1px solid greenyellow;
     background-color: black;
-    max-width: 800px;
+    max-width: 1000px;
     margin-top: 20px;
     padding: 20px;
 }
@@ -32,6 +32,9 @@
     color: greenyellow;
     text-decoration: none;
     font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 .table h3{
     font-size: 25px;

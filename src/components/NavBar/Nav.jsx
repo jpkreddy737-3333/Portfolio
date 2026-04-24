@@ -1,15 +1,16 @@
 import "./Nav.css";
-
+import { Link } from "react-router-dom";
 
 function Nav(){
     return (
         <nav className="nav">
             <div>PKR</div>
             <ul>
-            <li><a href="#About">About Me</a></li>
-            <li><a href="#Skill">Skills</a></li>
-            <li><a href="#Project">Projects</a></li>
-            <li><a href="#Contact">Contact Me</a></li>
+            <li><Link to="/">Home </Link></li>
+              <li><Link to="/about">About</Link></li>
+            <li><Link to="/skills">Skills</Link></li>
+            <li><Link to="/projects">Projects </Link></li>
+            <li><Link to="/contact">ContactMe </Link></li>
             </ul>
         </nav>
     )
